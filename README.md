@@ -12,7 +12,8 @@ My name is Dima, I’m currently studying Computer Science, but my main interest
 - Python 3 and it's libraries
   - pandas
   - NumPy
-  - MatPlotLib
+  - MatPlotLib/Seaborn
+  - scikit-learn
 - Mathematical Analysis
   - Statistics
   - Geometric analysis (Calculus)
