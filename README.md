@@ -1,6 +1,6 @@
-# ⚡Hello there!⚡
+# ⚡Greetings!⚡
 
-My name is Dima, I’m currently studying Computer Science, but my main interests are Data Science and Data Analytics. I love to find insight into data and hidden relations between its features.
+My name is Dima, I’m currently studying Computer Science, but my main interests are Data Science and Data Analytics, esspecially in fields of Urban transportation and Intelegent Transportation Systems. I love to find insight into data and hidden relations between its features.
 
 ## Current Projects
 
@@ -22,6 +22,7 @@ My name is Dima, I’m currently studying Computer Science, but my main interest
 - Software development
   - C/C++
   - Data Structures
+  - Computer Systems
 <!--
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/medvedkov-d/)
