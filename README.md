@@ -1,8 +1,13 @@
 # ⚡Greetings!⚡
-
 My name is Dima, I’m currently studying Computer Science, but my main interests are Data Science and Data Analytics, especially in fields of _Urban Transportation_ and _Intelligent Transportation Systems_. I love to find insight into data and hidden relations between its features.
 
-My favorite equation is the Bayes' theorem $$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
+My favorite equation is the Bayes' theorem and my favorite distribution is lognormal.
+
+<div style="text-align: center;">
+    
+$$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
+
+</div>
 
 ## 🔬 Current Projects 
 
