@@ -27,7 +27,7 @@ $$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
 
 ## 💻 Tech stack
 
-### Tools I mainly use
+### Tools I use the most
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://google.com)
 ![Python](https://img.shields.io/badge/jupiter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
