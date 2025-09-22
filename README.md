@@ -9,7 +9,21 @@ $$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
 
 </div>
 
-<!-- TODO: Mre about me -->
+
+<details>
+  <summary>🔎 More about me</summary>
+
+- I live on planet Earth, Sol system in Orion Arm of the Milky Way galaxy. 🌍
+
+- I'm an avid reader, and while I don't have a "favorite" book, you definetely need to read [*A Brief History of Time* by Stephen Hawking](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time?ref=nav_sb_ss_3_6).
+
+- I love sci-fi, futuristic technology, and all stuff thats science in general.
+
+- My first-ever programming language was C++, I didn't have good time with it, but I don't regret it.
+
+- If I encounter anything in my life that can be calculated, you bet I already have spreadsheets open.
+
+</details>
 
 ## 💻 Tech stack
 
@@ -37,36 +51,32 @@ $$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![TeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-<!-- TODO: Re-write all the stuff to be shorter -->
 ## 🧪 Current Projects 
 
-- Right now, I'm a part of a **research project** in my university where we assess and quantify the safety of bicycle infrastructure.
-    - We do a lot of cool stuff like **computer vision** video analysis from dashcams and **sentiment analysis** with topic modeling!
-- I do presentations and events in my university as part of student organizations. Currently in progress:
-    1. "Intro to Julia programming" workshop.
-    2. "intro to cryptography" workshop and small competition.
-- I’m also analyzing different small datasets for fun all the time!
+- Research project on transportation safety in micromobility at my university.
+    - I do computer vision and natural language processing, as well as domain research.
+- Presentations and events in my university as part of student organizations:
+    1. "Intro to cryptography" workshop and small competition.
+- Personal website on GitHub pages using Jekyll.
 
 ## 📖 Things I'm learning right now
-- [Julia](https://julialang.org) for scientific computing.
-- Urban logistics and modeling/simulation of such.
 - Visualization systems.
+- Database management systems.
+- [Julia](https://julialang.org) for scientific computing.
 - [Rust](https://www.rust-lang.org) for low-level and efficient computing.
-- Distributed computing systems.
+- Urban logistics and modeling/simulation of such.
 
-## 💪 Skills 
-- Python 3 and it's libraries
-  - pandas
-  - NumPy
-  - SciPy
-  - MatPlotLib/Seaborn
-  - scikit-learn
-- Mathematical Analysis
-  - Statistics
-      - Probabilistic AI algorithms like Bayesian Networks and HMMs
-  - Geometric analysis (Calculus)
-  - Linear algebra
-- Software development
-  - Low level development with C/C++
-  - Data Structures
-  - Computer Systems
+## 🎯 Skills 
+- Data Science.
+  - Data wrangling.
+  - Analysis.
+  - Visualization.
+- Mathematical Analysis.
+  - Statistics.
+      - Probabilistic AI models like Bayesian Networks and HMMs.
+  - Geometric analysis (Calculus).
+  - Linear algebra.
+- Software development.
+  - Low level development with C/C++.
+  - Data Structures.
+  - Computer Systems.
