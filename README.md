@@ -42,6 +42,7 @@ $$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
 ![Tableau](https://img.shields.io/badge/Tableau-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Vega](https://img.shields.io/badge/vega-2450B2?style=for-the-badge&logo=vega&logoColor=white)
 ![QGIS](https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/geopandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white)
 
 
 ### Infrastructure and organization
