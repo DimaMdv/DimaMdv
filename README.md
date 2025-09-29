@@ -39,18 +39,16 @@ $$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
 
 ![SQL](https://img.shields.io/badge/SQL-F37626?style=for-the-badge&logo=sql&logoColor=white)
 ![Excel](https://img.shields.io/badge/excel-007C3C?style=for-the-badge&logo=&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Vega](https://img.shields.io/badge/vega-2450B2?style=for-the-badge&logo=vega&logoColor=white)
 ![QGIS](https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/geopandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 
 ### Infrastructure and organization
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![TeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🧪 Current Projects 
 
