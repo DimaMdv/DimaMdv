@@ -1,5 +1,7 @@
 # 🪐Hey! Nice to see you!✨
-My name is Dima, I’m currently studying Computer Science, but my main interests are Data Science and Data Analytics. I'm especially interested in fields of _Urban Transportation_, _Intelligent Transportation Systems_, and everything else that makes smart cities come to life!🚆🚌🚲
+My name is Dima, my main interests are in Data Science and Data Analytics. I'm especially interested in fields of _Urban Transportation_, _Intelligent Transportation Systems_, and everything else that makes smart cities come to life!🚆🚌🚲
+
+Besides that, I do projects on a variety of different topics, including zoological research, scientific visualizations, logistic optimizations, and market research.
 
 My favorite equation is the Bayes' theorem and my favorite distribution is lognormal.
 
@@ -13,15 +15,11 @@ $$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
 <details>
   <summary>🔎 More about me</summary>
 
-- I live on planet Earth, Sol system in Orion Arm of the Milky Way galaxy. 🌍
+- I live on planet Earth, Sol system in Orion Arm of the Milky Way galaxy.
 
 - I'm an avid reader, and while I don't have a "favorite" book, you definetely need to read [*A Brief History of Time* by Stephen Hawking](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time?ref=nav_sb_ss_3_6).
 
-- I love sci-fi, futuristic technology, and all stuff thats science in general.
-
 - My first-ever programming language was C++, I didn't have good time with it, but I don't regret it.
-
-- If I encounter anything in my life that can be calculated, you bet I already have spreadsheets open.
 
 </details>
 
@@ -52,19 +50,19 @@ $$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
 
 ## 🧪 Current Projects 
 
-- Research project on transportation safety in micromobility at my university.
+- Research project on transportation safety in micromobility at University of Illinois Chicago.
     - I do computer vision and natural language processing, as well as domain research.
-- Presentations and events in my university as part of student organizations:
+- Presentations and events in my university:
     1. "Intro to cryptography" workshop and small competition.
-- Personal website on GitHub pages using Jekyll.
+- Personal website on GitHub pages and learning webdev in general.
 
 ## 📖 Things I'm learning right now
-- Visualization systems.
 - Database management systems.
 - [Julia](https://julialang.org) for scientific computing.
 - [Rust](https://www.rust-lang.org) for low-level and efficient computing.
 - Urban logistics and modeling/simulation of such.
 
+<!-- TODO: Either rename it into something like "general skills," or modify it so that it looks apart from the tech stack.-->
 ## 🎯 Skills 
 - Data Science.
   - Data wrangling.
@@ -72,10 +70,10 @@ $$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
   - Visualization.
 - Mathematical Analysis.
   - Statistics.
-      - Probabilistic AI models like Bayesian Networks and HMMs.
   - Geometric analysis (Calculus).
   - Linear algebra.
 - Software development.
   - Low level development with C/C++.
   - Data Structures.
   - Computer Systems.
+  - Database Systems.
