@@ -1,7 +1,7 @@
 # 🪐Hey! Nice to see you!✨
-My name is Dima, my main interests are in Data Science and Data Analytics. I'm especially interested in fields of _Urban Transportation_, _Intelligent Transportation Systems_, and everything else that makes smart cities come to life!🚆🚌🚲
+My name is Dima, my main skills are in Machine Learning, Data Science and Data Analytics, and applying them to logistics, production, and transportation. Besides that, I do projects on a variety of different topics, including zoological research, scientific visualizations, logistic optimizations, and market research.
 
-Besides that, I do projects on a variety of different topics, including zoological research, scientific visualizations, logistic optimizations, and market research.
+I'm genneraly a nerd and love cool human-centered technology, but especially interested in fields of _Urban Transportation_, _Intelligent Transportation Systems_, and everything else that makes smart cities come to life!🚆🚌🚲
 
 My favorite equation is the Bayes' theorem and my favorite distribution is lognormal.
 
@@ -50,17 +50,13 @@ $$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
 
 ## 🧪 Current Projects 
 
-- Research project on transportation safety in micromobility at University of Illinois Chicago.
-    - I do computer vision and natural language processing, as well as domain research.
-- Presentations and events in my university:
-    1. "Intro to cryptography" workshop and small competition.
+- Home server for machine learning and fun stuff.
 - Personal website on GitHub pages and learning webdev in general.
 
 ## 📖 Things I'm learning right now
-- Database management systems.
 - [Julia](https://julialang.org) for scientific computing.
-- [Rust](https://www.rust-lang.org) for low-level and efficient computing.
 - Urban logistics and modeling/simulation of such.
+- Quantum computing algorithms (for fun).
 
 <!-- TODO: Either rename it into something like "general skills," or modify it so that it looks apart from the tech stack.-->
 ## 🎯 Skills 
@@ -69,9 +65,9 @@ $$\text{❤️}P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}\text{❤️}$$
   - Analysis.
   - Visualization.
 - Mathematical Analysis.
-  - Statistics.
-  - Geometric analysis (Calculus).
-  - Linear algebra.
+  - Statistical modeling.
+  - Geometric analysis.
+  - Machine learning algorithms.
 - Software development.
   - Low level development with C/C++.
   - Data Structures.
